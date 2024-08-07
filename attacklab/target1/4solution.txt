@@ -1,0 +1,7 @@
+solution:
+use the provided .c, find the useful instruction set, find the segment of the code, and return (c3)
+
+so use the rop method to redo in phase_2
+
+first, need to push the stack memory into rax, and move the cookie into rdi
+
